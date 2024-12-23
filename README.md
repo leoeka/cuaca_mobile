@@ -1,6 +1,7 @@
 # flutter_wheather
 
-A new Flutter project.
+![alt text](<Screen Recording 2024-12-23 155405.gif>)
+## membuat program aplikasi flutter sederhana untuk menampilkan data cuaca suatu kota. Data cuaca diperoleh melalui API OpenWeatherMap dan ditampilkan di layar setelah mencari nama kota di search dan menekan tombol cuaca. class weatherscreen merupakan komponen utama aplikasi yang berfungsi sebagai antarmuka pengguna untuk memasukkan nama kota dan menampilkan data cuaca, ketika memasukkan nama kota di pencarian atau search makan akan menampilkan repons dari website openweather info tentang cuaca terbaru 
 
 ## Getting Started
 
